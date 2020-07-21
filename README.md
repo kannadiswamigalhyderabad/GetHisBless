@@ -1,5 +1,8 @@
 
 <p style="text-align: center;">​<span style="color:#0000FF;"><strong><span style="font-size:48px;">SREE MAHAN KANNADI SWAMIAR</span></strong> </span></p>
+
+![image](https://user-images.githubusercontent.com/68213756/88014475-a716ff80-cb3c-11ea-8df8-bde296b2a2e3.png)
+
  
 <div class="wsb-element-text" data-type="element" id="wsb-element-60b3d743-984c-4134-9949-cd26fa073ad5">
 <div class="txt ">
