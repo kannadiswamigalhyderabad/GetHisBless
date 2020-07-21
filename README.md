@@ -44,34 +44,4 @@ Email: udayashankaran2@gmail.com.</span></span></p>
 </div>
 </div>
 </div>
-
-<div class="wsb-canvas-page-footer footer" id="wsb-canvas-template-footer" style="margin: auto; min-height:100px; height: 100px; width: 1000px; position: relative;">
-<div class="footer-container" id="wsb-canvas-template-footer-container" style="position: absolute">
-<div class="wsb-element-text" id="wsb-element-2cd4c833-54f7-4898-bbfe-7c2e5e033cc0">
-<div class="txt ">
-<p style="text-align: center;"><span class="editor_footer">Copyright ©&nbsp;<span itemscope="itemscope" itemtype="http://schema.org/Organization"><span itemprop="name">Nagarajan Ramu</span></span>.&nbsp;All rights reserved.</span></p>
-</div>
-</div>
-<!-- <div id="wsb-element-7371c2d6-e2c5-4a30-8744-8c7069c3319f" class="wsb-element-image">
-                        <div class="wsb-image-inner ">
-                            <div class="img">
-                                <a href="https://www.godaddy.com/hosting/website-builder.aspx?cvosrc=assets.wsb_badge.wsb_badge" target="_blank" rel="nofollow"><img src="img/b727c70ecabdd50a0e3bd66e04aded31.png" style="vertical-align:middle;width:98px;height:35px;"></a> 
-                            </div>
-                        </div>
-                    </div> --></div>
-</div>
-
-<div class="view-as-mobile" style="padding:10px;position:relative;text-align:center;display:none;"><a href="http://hisholiness.in/#" onclick="return false;">View on Mobile</a></div>
-</div>
-</div>
-<script type="text/javascript">
-        require(['jquery', 'common/cookiemanager/cookiemanager', 'designer/iebackground/iebackground'], function($, cookieManager, bg) {
-            if (cookieManager.getCookie("WSB.ForceDesktop")) {
-                $('.view-as-mobile', '.wsb-canvas-page-container').show().find('a').bind('click', function() {
-                    cookieManager.eraseCookie("WSB.ForceDesktop");
-                    window.location.reload(true);
-                });
-            }
-            bg.fixBackground();
-        });
-    </script></body></html>
+</body></html>
