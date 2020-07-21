@@ -1,8 +1,6 @@
 
 <p style="text-align: center;">​<span style="color:#0000FF;"><strong><span style="font-size:48px;">SREE MAHAN KANNADI SWAMIAR</span></strong> </span></p>
-</div>
-</div>
-
+ 
 <div class="wsb-element-text" data-type="element" id="wsb-element-60b3d743-984c-4134-9949-cd26fa073ad5">
 <div class="txt ">
 <p style="text-align: justify;"><span style="font-size:18px;"><span style="color:#0000FF;">HIS HOLINESS "SREE MAHAN KANNADI SWAMIAR" who is omnipotent, omnipresent, omniscient and of immortal memory entered Jeeva Samadhi by leaving HIS mortal body in HIS original form i.e. LIGHT on Monday 23 rd March 1903 and this fortunate event was witnessed by HIS disciple Late Sri M.R.Ry.M.Doorvasa Mudaliar and his family members along with other devotees. The devotion and gratitue of HIS disciple and devotees found concrete expression, in the errection of the shrine in the garden of late Sri M.R.Rly.Arcot Rangaswamy Mudaliar (now known as Paigah colony, Behind Anand theatre, Sardar Patel Road, Secunderabad) with the permission of the owner late Nawab Sir Asmanjah Bahadur, K.C.S.I. Prime Minster of Hyderabad State and the exact spot of the Samadhi was seelcted by HIS HOLINESS.&nbsp;<br>
@@ -40,8 +38,4 @@ M.M.Udaya Shankaran<br>
 Hyderabad<br>
 Mobile:9849217402 (contact during Shrine visiting hours)<br>
 Email: udayashankaran2@gmail.com.</span></span></p>
-</div>
-</div>
-</div>
-</div>
-</body></html>
+ </body></html>
