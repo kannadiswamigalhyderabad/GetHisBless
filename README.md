@@ -37,5 +37,4 @@ From<br>
 M.M.Udaya Shankaran<br>
 Hyderabad<br>
 Mobile:9849217402 (contact during Shrine visiting hours)<br>
-Email: udayashankaran2@gmail.com.</span></span></p>
- </body></html>
+Email: udayashankaran2@gmail.com
